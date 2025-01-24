@@ -60,7 +60,7 @@ project
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/Mech-Kal/blog-application.git
+   git clone https://github.com/Mech-Kal/blog-app2.git
    cd blog-application
    ```
 2. **Install Dependencies**
