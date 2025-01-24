@@ -11,7 +11,7 @@ A blog application that allows users to create, read, update, and delete (CRUD) 
 project 
 ├── public 
 │ └── styles 
-│ └── main.css # Stylesheet for the application 
+│  └── main.css # Stylesheet for the application 
 ├── views 
 │ ├── index.ejs # Main page to display blog posts 
 │ ├── modify.ejs # Page for creating or editing blog posts 
@@ -60,7 +60,7 @@ project
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/your-username/blog-application.git
+   git clone https://github.com/Mech-Kal/blog-application.git
    cd blog-application
    ```
 2. **Install Dependencies**
